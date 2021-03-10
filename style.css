@@ -1,0 +1,294 @@
+body{margin:0px;
+     background-color: white;
+     margin-bottom: 00; 
+     
+     
+     
+
+   }
+#site{
+      width: 1300px;
+      margin: auto;
+      height: auto;
+
+     }
+     #Tentet { display: block;
+        float: left;
+        margin-left: auto;
+        background-color:#3F4650; 
+        height:75px;
+        width: 100%;
+        left: -50%;
+        bottom:15px;
+        min-width: 1500px;
+        width: 100%;}
+        #Tentet p{font-family: "Segoe Script";
+        font-size:30pt;
+        text-align: center;
+        margin-top:10px;
+        color: #C99752;
+        position: relative;
+        right: 40px;
+        min-width: 400px;
+      }
+#entet  {
+        display: block;
+        float: left;
+        margin-left: auto;
+        background-color:#3F4650; 
+        height:75px;
+        width: 100%;
+        left: -50%;
+        bottom:15px;
+        min-width: 1500px;
+        width: 100%;}
+#entet p{font-family: "Segoe Script";
+        font-size:30pt;
+        text-align: center;
+        margin-top:10px;
+        color: #C99752;
+        position: relative;
+        right: 40px;
+        min-width: 400px;
+      }
+      #Tentet a {
+        text-decoration: none;
+    color: #C99752;
+}      
+#entet a {
+  text-decoration: none;
+    color: #C99752;
+}      
+
+#menu       {  min-width: 1500px;
+            background-color: #3F4650; 
+            height:150px;
+            width: 100%;
+            position: relative;
+            margin:0;
+            width: 100%;
+              
+         }
+#menu ul    {min-width: 600px;
+            float: left;
+            left: 43%;
+    margin-left: -138px;
+    padding-top: 5px;
+    position: relative;
+}        
+#menu ul li {float: left;
+
+             margin-left: 20px;
+             list-style-type: none;
+             position: relative;
+             left: -30%;
+             text-align: center;
+             } 
+
+             
+#menu ul li a {display: inline-block;
+               width: 150px;height: 30px;padding: 10px;
+              font-family: cursive;
+               position: relative;
+               text-decoration: none;
+               background-color:#C99752;
+               color:black;
+               text-align: center;height: 20px;}
+#menu ul li a:hover {
+             color:white;
+             background-color: #FF9700;}
+
+#menu ul ul {
+            position: absolute;
+            visibility: hidden;
+}
+ 
+#menu ul ul li a {min-width: 280px;
+            clear: both;
+            display: block;
+            background-color:#795549;
+            width: 150px;
+            height: 30px;
+            padding-top: 10px;
+            text-align: center;
+            margin-left: 118px;
+}
+#menu ul li:hover ul{
+            visibility: visible;}
+
+#chemin{display: inline-block;
+        min-width: 1500px;
+        float: left;
+        
+        height: 40px;
+        color: teal;
+        font-size: 20pt;margin-top: 0; 
+        background-color: #EEEEEE;
+        width:100%;
+}
+#chemin a {text-decoration: none;
+           color: teal;
+}
+#chemin a:hover {text-decoration: underline;}
+#contenueprincipal{
+    display: block;
+    text-align: center;
+    position: relative;
+}
+
+
+#bas{display: inline-block;
+    background-color: #354046; 
+    height:190px;
+     width: 100%; 
+    margin-top: 0px;
+    float:left;
+    margin: auto;
+    text-align: center;
+    font-size:14pt;
+    text-decoration:underline;
+     
+}
+#bas ul{ 
+    float: left;
+    margin-left: 35% ;
+    height: 50px;
+    position: relative;
+    color: #897A77;
+    
+}
+#bas p{text-decoration: underline;
+}
+#bas  a{text-decoration: none;
+    margin-top:  30px;
+    color:#C99752;
+}
+
+table{box-shadow: -1px 2px 10px 3px rgba(0, 0, 0, 0.3) inset;
+      position: relative;
+      margin:auto; 
+      color:  #777;
+      background: #F4F4F4;
+      width: 70%;
+      border-collapse: collapse;
+      font-size:20pt; 
+      
+     }
+h1{font-weight: normal;
+   color: #A19392;   
+} 
+#lien a {text-decoration: none;
+         color:black;
+}
+#lien a:hover{text-decoration: underline;
+}
+#contenue{width: 100%;display: block;
+    
+          margin-top:0;
+
+
+}
+#neige{background-image: url(neige.gif);
+   color: white;}
+
+#welcome{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 250px;
+    box-shadow: 10px 5px 50px 5px rgba(0, 0, 0, 0.7);
+    font-size:40pt;
+    font-family:  "Segoe Print";
+    color: white;
+     
+    text-align: center;
+    background-image: url(neige.gif);    
+}
+#separer{margin-right: 2px;
+ min-width: 1500px;
+ width: 99.89%;
+ }
+#contenuecour {display: block;
+               position: relative;
+               margin-bottom: 400px;
+              top: 20px;
+             }
+#contenuecour h1 { text-align: center;
+                   box-shadow: 10px 5px 50px 5px rgba(0, 0, 0, 0.7);
+
+}                   
+#contenuecour h2 {text-align: center;}
+#contenuecour h3 {color: red;
+                  text-decoration: underline;
+}
+                        
+#contenuecour p {display: block; 
+                 font-size:15pt;
+}
+#contenuecour img {margin-left: 200px;}   
+#methode  {list-style-type: decimal;
+           box-shadow:  -1px 2px 10px 3px rgba(0, 0, 0, 0.3) inset;
+}   
+#methode p {font-size:25pt;
+            text-decoration: none; 
+}  
+#sommaire {text-align: center;
+           display: block;
+           position: relative;
+           margin-bottom: 400px;
+           top: 20px;
+}
+#sommaire h1{text-align: center;
+                   box-shadow: 10px 5px 50px 5px rgba(0, 0, 0, 0.7);
+}
+#sommaire ul{font-size:20pt;
+             list-style-type: none;
+             color:red;
+}
+#sommaire ul li {font-size:18pt; 
+                 display: block;
+                 color: black;
+                 }
+#sommaire ul li a{text-decoration: none;
+                  color: black;
+}                 
+#sommaire ul li a:hover{text-decoration: underline;
+
+}
+#exercice {
+    font-size:20pt; 
+}
+#niv3 { display: block;
+ position: absolute;
+  }
+#niv3 ul{
+      display: inline-block;
+      position: absolute;
+      float: left;
+}
+#form {
+  width: 900px;
+  margin-left: 300px;
+           display: block;
+           position: relative;
+           margin-bottom: 400px;
+           font-size: 18pt; 
+           top: 20px;
+         box-shadow: 10px 5px 50px 5px rgba(0, 0, 0, 0.7);
+       }
+#form h1 {text-align: center;}
+#buton input {color:white;
+background-color: teal;
+margin-left: 300px;
+width: 300px;
+height: 50px;
+display: block;
+float: left;
+}
+#message {width:780px;
+          height: 161px;
+         resize: none;
+
+ }
+
+
